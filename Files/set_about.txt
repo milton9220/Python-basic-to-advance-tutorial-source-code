@@ -1,0 +1,3 @@
+Milton's salary is 6000 
+Adnan's salary is 10000
+Aminul's salary is 30000

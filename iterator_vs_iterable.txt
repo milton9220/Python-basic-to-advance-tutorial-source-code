@@ -1,0 +1,10 @@
+In iteration function we use loop.
+example:
+numbers=[1,2,3,4]
+for i in numbers:
+   print(i)
+
+here first loop calls the iter() function and there it will be iter(numbers) and its called iterator .and it returns iterator object. iter_number=iter(numbers)
+then it calls next() function. IN next function next(iter_number). ei function 1 return korbe. ar list,tuples,string iterable function.
+
+Iterable a iter function call hoi.   

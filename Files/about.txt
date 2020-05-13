@@ -1,0 +1,3 @@
+Milton,6000 
+Adnan,10000
+Aminul,30000
