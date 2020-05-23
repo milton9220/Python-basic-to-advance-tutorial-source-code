@@ -4,9 +4,9 @@ user_info={
           'occupation':'Student'
 }
 
-#print(user_info)
-#user_info['favorite_song']=['alo alo','maya lagaise']
-#print(user_info)
+print(user_info)
+user_info['favorite_song']=['alo alo','maya lagaise']
+print(user_info)
 
 #pop_item=user_info.pop('favorite_song')
 #print(user_info)
