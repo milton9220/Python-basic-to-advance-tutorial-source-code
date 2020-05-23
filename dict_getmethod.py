@@ -5,6 +5,7 @@ user={
 
 #print(user.get('name'))
 #print(user.get('names'))
+#if 'harsit' in user.values() eivabe o use korte pari
 
 if user.get('name'):
     print(user['name'])
